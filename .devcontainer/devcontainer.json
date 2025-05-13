@@ -3,6 +3,7 @@
     "build": {
         "dockerfile": "Dockerfile"
     },
+    "forwardAgent": true,
     "forwardPorts": [
         5000, 8080, 8324, 8334
     ],
